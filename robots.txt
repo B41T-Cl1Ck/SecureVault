@@ -2,6 +2,7 @@ User-agent: *
 Disallow: /admin/
 Disallow: /docs/
 Disallow: /api/logs/
+Disallow: /back31337-archive/
 
 # Autorisé
 Allow: /css/
