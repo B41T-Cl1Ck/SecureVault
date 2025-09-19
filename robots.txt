@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /docs/
+Disallow: /api/logs/
+
+# Autorisé
+Allow: /css/
+Allow: /js/
+Allow: /
+
+Sitemap: https://securevault.local/sitemap.xml
